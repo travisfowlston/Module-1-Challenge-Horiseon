@@ -1,6 +1,6 @@
 # Module 1 Challenge Horiseon
 
-## Description
+## Project Description
 
 This Prework Study Guide Webpage was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
