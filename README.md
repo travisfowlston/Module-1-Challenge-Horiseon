@@ -1,21 +1,28 @@
-# Module 1 Challenge Horiseon
+# Module 1 Challenge - Horiseon
 
 ## Project Description
 
-This Prework Study Guide Webpage was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+The Module 1 Challenge objective was to refactor code so that as a marketing agency, our own website is optimized for search engines.
 
 ## Deployment Screenshot
 
-(./assets/images/deployment-screenshot.png)
+![deployment-screenshot](https://github.com/travisfowlston/Module-1-Challenge-Horiseon/assets/124004384/f22b8314-ee1e-4a3f-8ab6-51ebd217b6ff)
 
-## Usage
+[Deployment Link](https://travisfowlston.github.io/Module-1-Challenge-Horiseon/)
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+## Comments
+
+* Added comments to the HTML and CSS to describe the refactored code.
+* Refactored the div elements to make the HTML semantic by using the header, main, and aside elements.
+* Renamed and consolidated the style selectors.
+* Added a new webpage title.
+* Added alt attributes to make the webpage more accessible.
 
 ## Credits
 
-N/A
+* Starter code was provided by the UC Davis Bootcamp.
+* Refactoring was completed by Travis Fowlston.
 
 ## License
 
-Please refer to the LICENSE in the repository.
+N/A
