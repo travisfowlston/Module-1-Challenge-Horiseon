@@ -4,9 +4,9 @@
 
 This Prework Study Guide Webpage was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
-## Installation
+## Deployment Screenshot
 
-N/A
+(./assets/images/DeploymentScreenshot.PNG)
 
 ## Usage
 
