@@ -6,7 +6,7 @@ This Prework Study Guide Webpage was created for boot camp students who were goi
 
 ## Deployment Screenshot
 
-(./assets/images/DeploymentScreenshot.PNG)
+(./assets/images/deployment-screenshot.png)
 
 ## Usage
 
